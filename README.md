@@ -1,1 +1,1 @@
-# keep-render-awake
+# keep-render-awake.
